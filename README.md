@@ -1,4 +1,6 @@
-## q1.class
+# Challenges
+
+## Q1.class
 クラス Macbook を下記のように拡張してください。  
 - プロパティcpuに任意の値（文字列”M1” または “M2” が設定できるようにしてください
 - メソッド「deliveryTime」を追加してください。
@@ -8,12 +10,19 @@
   - screenWidthが20以上のとき+2日
 
 
-## q2.website
+## Q2.website
 このWebサイトには3つ不具合があります。それぞれ解決してください。  
 ヒント：修正箇所はindex.htmlとapp.jsにのみあります。
 
 1. 画像が表示されていない
 2. ナビゲーションのレイアウトが崩れている
 
-## q3.css
+## Q3.css
 style.cssに書かれいてるコードを100%理解し、説明できるようにしてください
+
+# Others
+
+- 卒業生コミュニティ：SiiD Community
+
+- アンケートのお願い
+https://forms.gle/mKGRE5Svbm8khtxv8
