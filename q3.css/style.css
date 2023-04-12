@@ -1,0 +1,25 @@
+body {
+    background: #eee;
+}
+
+@keyframes animation {
+  from {
+    transform: translateX(0%) rotate(0deg);
+  }
+
+  to {
+    transform: translateX(100%) rotate(360deg);
+  }
+}
+
+.foo {
+    animation: animation .85s 3s ease-in-out infinite alternate;
+    transform-origin: center center;
+    background: #333;
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin: -50px 0 0 -50px;
+}
